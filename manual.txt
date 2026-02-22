@@ -1,0 +1,21 @@
+Welcome to the RPG game "Dragon Repeller"
+
+Introduction:
+
+I made this game by following a project tutorial from a course 
+on freeCodeCamp in HTML, CSS, and JavaScript. 
+
+This was a the first thing I had to do in JavaScript
+so it went pretty fast. But this way of learning while building
+a project is a great way to learn. You learn from doing something
+which helps you get a better understanding of what you are
+learning. And it is a ton of fun making a game at the same time. 
+
+Game Manual:
+
+In this game, you are a lone fighter who needs to help a village
+from monsters who have taken over the village. You can buy health
+with gold which is won by slaying the monsters and trading your
+weapons. Each monster has a higher HP and can return more gold 
+than the previous one. But be careful, you may miss an attack 
+which could prevent you from beating the game. Good luck!
